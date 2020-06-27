@@ -10,6 +10,8 @@
 
 - This is a Node.js implementation of MySQL `aes_encrypt` and `aes_decrypt`
 
+- Lastly, do not forget to make your column types as 'varbinary' in mysql...
+
 ## Install
 ```sh
 $ npm i mysql-aes-binary --save
