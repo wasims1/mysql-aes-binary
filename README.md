@@ -6,7 +6,7 @@
 
 - You can check the mysql documentation for details: https://dev.mysql.com/doc/refman/8.0/en/encryption-functions.html
 
-- Our module is similar to mysql-aes, however, we keep the encrypted data as binary. Thus, we save you at least have your database size.
+- Our module is similar to mysql-aes, however, we keep the encrypted data as binary. Thus, we save you at least half (50%) your database size.
 
 - This is a Node.js implementation of MySQL `aes_encrypt` and `aes_decrypt`
 
