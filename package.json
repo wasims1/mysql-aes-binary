@@ -1,6 +1,6 @@
 {
   "name": "mysql-aes-binary",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "nodejs implementation of aes_encrypt and aes_decrypt, using binary data thus saving valuable space",
   "main": "index.js",
   "scripts": {
